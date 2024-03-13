@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "On-going works"
 permalink: /publications/
 author_profile: true
 ---
-
-
-On-going works
-======
 
 Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa.
 ------
