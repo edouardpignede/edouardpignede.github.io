@@ -12,19 +12,19 @@ My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
 
 Education
 ------
-2021--present \\
+- 2021--present \\
 **PhD, Development and environmental economics** \\
 [AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
 
-2019--2020 \\
+- 2019--2020 \\
 **Master’s degree in environmental economics** \\
 [AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
 
-2016--2020 \\
+- 2016--2020 \\
 **Master’s degree in industrial engineering** \\
 [CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
 
-2014--2016 \\
+- 2014--2016 \\
 **Classes préparatoires** \\
 Henri IV  
 
@@ -33,13 +33,13 @@ Publications
 ------
 **Journal Articles**
 
-Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data, with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, 
+- [Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data](https://www.mdpi.com/2073-4433/12/11/1459), with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, Atmosphere.
 
 **Non-refereed journal articles**
 
-French trade in the 18th century: Inflation and Revolution with Guillaume Daudin, 2021, Dialogue. French version: link.
+- [French trade in the 18th century: Inflation and Revolution](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf) with Guillaume Daudin, 2021, Dialogue. French version: [link](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-62.pdf).
 
-**On-going work**
+**On-going works**
 - Who carries the burden of climate change? Heterogeneous impact of droughts in Sub-Saharan Africa.
 Available uppon request.
 - Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa with Victoire Girard.

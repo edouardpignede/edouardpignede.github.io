@@ -9,13 +9,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
+\\
+\\
 On-going works
 ======
 
 Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa.
 ------
-**Submitted** Available upon request.
+**Submitted**. Available upon request.
 
 **Abstract**: 
 Droughts can dramatically affect economic activities, especially in developing countries where more than half the labor force is in the agricultural sector. This paper highlights the causal impact of drought on income inequality using a new methodology known as the quantile treatment effect under the Copula stability assumption. This method generalizes the difference-in-differences framework to the entire distribution. The methodology is applied to a geo-referenced and nationally representative household survey of two Sub-Saharan countries: Ethiopia and Malawi. The results show that droughts worsen income inequality in both countries. Lower-income quantiles are subject to a higher decrease in per capita income, up to 40% for the lowest-income quantile. In contrast, higher-income quantiles are largely unaffected or appear to benefit from the drought. These results are robust to several specifications and offer
@@ -32,8 +33,8 @@ Climate immobility in Sub-Saharan Africa
 with [Julien Wolfersberger](https://julienwolfersberger.fr)
 
 
-
-
+\\
+\\
 Publications
 ======
 - [Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data](https://www.mdpi.com/2073-4433/12/11/1459), with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, Atmosphere.
