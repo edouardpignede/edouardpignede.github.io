@@ -7,25 +7,25 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found here: [link](https://edouardpignede.github.io/files/cv.pdf).
+My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
 
 
 Education
 ------
-2021--present 
-**PhD, Development and environmental economics**  
+2021--present \\
+**PhD, Development and environmental economics** \\
 [AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
 
-2019--2020 
-**Master’s degree in environmental economics**  
+2019--2020 \\
+**Master’s degree in environmental economics** \\
 [AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
 
-2016--2020 
-**Master’s degree in industrial engineering**
+2016--2020 \\
+**Master’s degree in industrial engineering** \\
 [CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
 
-2014--2016 
-**Classes préparatoires**  
+2014--2016 \\
+**Classes préparatoires** \\
 Henri IV  
 
 
@@ -40,21 +40,23 @@ Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Veget
 French trade in the 18th century: Inflation and Revolution with Guillaume Daudin, 2021, Dialogue. French version: link.
 
 **On-going work**
-- Edouard Pignède, Who carries the burden of climate change? Heterogeneous impact of droughts in Sub-Saharan Africa.
-Available uppon request
-- Edouard Pignède (with Victoire Girard), Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa.
-- Edouard Pignède (with Julien Wolfersberger), Climate immobility in Sub-Saharan Africa.
+- Who carries the burden of climate change? Heterogeneous impact of droughts in Sub-Saharan Africa.
+Available uppon request.
+- Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa with Victoire Girard.
+- Climate immobility in Sub-Saharan Africa with Julien Wolfersberger.
 
 
 
 Research Experience
 -----
 
-- Nov,2020 -- Nov,2021 
-  **Research engineer** [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
+- Nov,2020 -- Nov,2021 \\
+  **Research engineer** \\
+  [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
 
-- May,2020 -- Nov,2020 
-  **Research engineer** [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
+- May,2020 -- Nov,2020 \\
+  **Research engineer** \\
+  [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
 
 
 Skills

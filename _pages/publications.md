@@ -9,6 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
 On-going works
 ======
 
@@ -21,7 +22,7 @@ Droughts can dramatically affect economic activities, especially in developing c
 quantitative insights into how extreme weather conditions affect inequality dynamics in developing coun tries. Inequality formation is driven by differences in the ability to cope with droughts. The results show that wealthier households have a higher capacity to find alternative sources of income to prevent a welfare drop. In contrast, the most vulnerable households, particularly low-asset, remote, female-headed, and older-headed, are intensely harmed. Finally, consumption-smoothing behaviors and asset depletion strategies in middle-income households are also observed.
 
 
-Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa
+Golden cities: Artisanal mining and urbanization in Sub-Saharan Africas
 ------
 with [Victoire Girard](https://sites.google.com/site/girardvictoire/home)
 
@@ -29,6 +30,8 @@ with [Victoire Girard](https://sites.google.com/site/girardvictoire/home)
 Climate immobility in Sub-Saharan Africa
 ------
 with [Julien Wolfersberger](https://julienwolfersberger.fr)
+
+
 
 
 Publications
