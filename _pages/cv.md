@@ -12,27 +12,34 @@ My CV can be found here: [link](https://edouardpignede.github.io/files/cv.pdf).
 
 Education
 ------
-- 2021--present **PhD, Development and environmental economics**  [AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
+2021--present 
+**PhD, Development and environmental economics**  
+[AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
 
-- 2019--2020 **Master’s degree in environmental economics**  [AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
+2019--2020 
+**Master’s degree in environmental economics**  
+[AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
 
-- 2016--2020 **Master’s degree in industrial engineering**  [CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
+2016--2020 
+**Master’s degree in industrial engineering**
+[CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
 
-- 2014--2016**Classes préparatoires**  Henri IV  
+2014--2016 
+**Classes préparatoires**  
+Henri IV  
 
 
 Publications
 ------
-Journal Articles
-=
+**Journal Articles**
+
 Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data, with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, 
 
-Non-refereed journal articles
-=
+**Non-refereed journal articles**
+
 French trade in the 18th century: Inflation and Revolution with Guillaume Daudin, 2021, Dialogue. French version: link.
 
-On-going work
-=
+**On-going work**
 - Edouard Pignède, Who carries the burden of climate change? Heterogeneous impact of droughts in Sub-Saharan Africa.
 Available uppon request
 - Edouard Pignède (with Victoire Girard), Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa.
@@ -43,9 +50,11 @@ Available uppon request
 Research Experience
 -----
 
-- Nov,2020 -- Nov,2021 **Research engineer** [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
+- Nov,2020 -- Nov,2021 
+  **Research engineer** [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
 
-- May,2020 -- Nov,2020 **Research engineer** [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
+- May,2020 -- Nov,2020 
+  **Research engineer** [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
 
 
 Skills
@@ -53,12 +62,6 @@ Skills
 - **Computer skills**: Advanced knowledge of R, QGIS, Python and STATA  
 - **Languages**: French: Native, English: Fluent, Spanish: Intermediate
 
-
-Publications
-----
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
   
