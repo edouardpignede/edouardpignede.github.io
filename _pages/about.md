@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Edouard Pignède"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my personal webpage.
 I am a PhD student in Environmental and Development Economics.
 
-You can contact me at [edouard.pignede<at>gmail.com](mailto:edouard.pignede@gmail.com)
+You can contact me at [edouard.pignede@gmail.com](mailto:edouard.pignede@gmail.com)
 
 Research Labs
 ------------
