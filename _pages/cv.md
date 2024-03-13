@@ -7,58 +7,90 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+My CV can be found here: [link](https://edouardpignede.github.io/files/cv.pdf).
+
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+- 2021--present **PhD, Development and environmental economics**  [AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 2019--2020 **Master’s degree in environmental economics**  [AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- 2016--2020 **Master’s degree in industrial engineering**  [CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2014--2016**Classes préparatoires**  Henri IV  
+
 
 Publications
-======
+------
+Journal Articles
+=
+Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data, with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, 
+
+Non-refereed journal articles
+=
+French trade in the 18th century: Inflation and Revolution with Guillaume Daudin, 2021, Dialogue. French version: link.
+
+On-going work
+=
+- Edouard Pignède, Who carries the burden of climate change? Heterogeneous impact of droughts in Sub-Saharan Africa.
+Available uppon request
+- Edouard Pignède (with Victoire Girard), Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa.
+- Edouard Pignède (with Julien Wolfersberger), Climate immobility in Sub-Saharan Africa.
+
+
+
+Research Experience
+-----
+
+- Nov,2020 -- Nov,2021 **Research engineer** [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
+
+- May,2020 -- Nov,2020 **Research engineer** [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
+
+
+Skills
+----
+- **Computer skills**: Advanced knowledge of R, QGIS, Python and STATA  
+- **Languages**: French: Native, English: Fluent, Spanish: Intermediate
+
+
+Publications
+----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
-======
+----
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Referees
+----
+
+**Dr. Philippe Delacote**  
+Senior Researcher, Department of Economy  
+Bureau d'Economie Théorique et Appliquée (BETA)  
+INRAE  
+[philippe.delacote@nancy.inra.fr](mailto:philippe.delacote@nancy.inra.fr)
+
+**Dr. Raja Chakir**  
+Senior Researcher, Department of Economy  
+Paris-Saclay Applied Economics (PSAE)  
+INRAE-AgroParisTech  
+[raja.chakir@inrae.fr](mailto:raja.chakir@inrae.fr)
+
+**Dr. Julien Wolfersberger**  
+Research fellow, Department of Economy  
+Paris-Saclay Applied Economics (PSAE)  
+AgroParisTech  
+[julien.wolfersberger@agroparistech.fr](mailto:julien.wolfersberger@agroparistech.fr)
+
+**Dr. Flore Gubert**  
+Senior researcher, Department of Economy  
+DIAL  
+IRD  
+[gubert@dial.prd.fr](mailto:gubert@dial.prd.fr)

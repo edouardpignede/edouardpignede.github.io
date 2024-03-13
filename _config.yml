@@ -24,10 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Edouard Pignède"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Environmental and Development Economics"
+  bio              : "PhD student in Environmental and \n Development Economics"
   location         : "Paris, France"
-  employer         : "AgroParisTech"
-  employer         : "Climate Economic Chair"
+  employer         : 
   uri              : # URL
   email            : "edouard.pignede@gmail.com" 
 
