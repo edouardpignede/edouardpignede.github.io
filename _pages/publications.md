@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 \\
-\\
 
 On-going works
 ======
@@ -34,7 +33,6 @@ Climate immobility in Sub-Saharan Africa
 with [Julien Wolfersberger](https://julienwolfersberger.fr)
 
 
-\\
 \\
 
 Publications
