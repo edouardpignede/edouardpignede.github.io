@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage.
-I am a PhD student in Environmental and Development Economics.
+Welcome to my personal webpage!
+-----
+
+I am a PhD student in **Environmental and Development Economics**.\\
+My research focus on the adaptation to **climate change** in Sub-Saharan Africa.
 
 You can contact me at [edouard.pignede@gmail.com](mailto:edouard.pignede@gmail.com)
 
