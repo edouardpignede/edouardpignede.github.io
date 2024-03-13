@@ -13,20 +13,20 @@ My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
 Education
 ------
 - 2021--present \\
-**PhD, Development and environmental economics** \\
-[AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
+  **PhD, Development and environmental economics** \\
+  [AgroParistech (Paris-Saclay University) & Climate Economic Chair](http://www2.agroparistech.fr/spip.php?article1142)  
 
 - 2019--2020 \\
-**Master’s degree in environmental economics** \\
-[AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
+  **Master’s degree in environmental economics** \\
+  [AgroParistech (Paris-Saclay University)](http://www2.agroparistech.fr/spip.php?article1142)
 
 - 2016--2020 \\
-**Master’s degree in industrial engineering** \\
-[CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
+  **Master’s degree in industrial engineering** \\
+  [CentraleSupélec (Paris-Saclay University)](https://www.centralesupelec.fr/en)
 
 - 2014--2016 \\
-**Classes préparatoires** \\
-Henri IV  
+  **Classes préparatoires** \\
+  Henri IV  
 
 
 Publications
@@ -50,11 +50,11 @@ Available uppon request.
 Research Experience
 -----
 
-- Nov,2020 -- Nov,2021 \\
+- Nov, 2020 -- Nov, 2021 \\
   **Research engineer** \\
   [French National Research Institute for Sustainable Development (IRD), DIAL](https://en.ird.fr/), Paris 
 
-- May,2020 -- Nov,2020 \\
+- May, 2020 -- Nov, 2020 \\
   **Research engineer** \\
   [French Development Agency (AFD)](https://www.afd.fr/en), Paris. End-of-study internship
 
@@ -69,9 +69,30 @@ Skills
   
 Teaching
 ----
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+- 2022-2023
+  **Introduction to environmental economics (Master BIOCEB - AgroParisTech)**  
+  Spring semester, in English  
+  Level: Master  
+  Teaching load: 9 hours
+
+- 2022-2023
+  **Introduction to climate change in economics (Master ADEPP - ENSAE Dakar)**  
+  Fall semester, in French  
+  Level: Master  
+  Teaching load: 2 hours
+
+- 2022-2023
+  **Microeconomy (CPES - PSL University)**  
+  Fall semester, in French  
+  Level: Bachelor (2nd year)  
+  Teaching load: 20 hours
+
+- 2021-2022
+  **Introduction to GIS data in Economy (Master BIOCEB - AgroParisTech)**  
+  Spring semester, in English  
+  Level: Master  
+  Teaching load: 1.5 hours
 
 Referees
 ----

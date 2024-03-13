@@ -11,6 +11,7 @@ author_profile: true
 
 \\
 \\
+
 On-going works
 ======
 
@@ -35,6 +36,7 @@ with [Julien Wolfersberger](https://julienwolfersberger.fr)
 
 \\
 \\
+
 Publications
 ======
 - [Sugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data](https://www.mdpi.com/2073-4433/12/11/1459), with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, Atmosphere.
