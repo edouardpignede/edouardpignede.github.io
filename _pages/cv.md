@@ -101,22 +101,22 @@ Referees
 Senior Researcher, Department of Economy  
 Bureau d'Economie Théorique et Appliquée (BETA)  
 INRAE  
-[philippe.delacote@nancy.inra.fr](mailto:philippe.delacote@nancy.inra.fr)
+[Personal website](https://sites.google.com/view/philippedelacote/)
 
 **Dr. Raja Chakir**  
 Senior Researcher, Department of Economy  
 Paris-Saclay Applied Economics (PSAE)  
 INRAE-AgroParisTech  
-[raja.chakir@inrae.fr](mailto:raja.chakir@inrae.fr)
+[Personal website](https://sites.google.com/site/rajachakir/)
 
 **Dr. Julien Wolfersberger**  
 Research fellow, Department of Economy  
 Paris-Saclay Applied Economics (PSAE)  
 AgroParisTech  
-[julien.wolfersberger@agroparistech.fr](mailto:julien.wolfersberger@agroparistech.fr)
+[Personal website](https://julienwolfersberger.wordpress.com/)
 
 **Dr. Flore Gubert**  
 Senior researcher, Department of Economy  
 DIAL  
 IRD  
-[gubert@dial.prd.fr](mailto:gubert@dial.prd.fr)
+[Personal website](https://dauphine.psl.eu/recherche/cvtheque/gubert-flore)

@@ -294,6 +294,7 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-email-protect
   - jekyll-gist
   - jekyll-feed
   - jemoji
