@@ -7,6 +7,8 @@ author_profile: true
 
 2024
 -----
+- EAERE - 29th Annual Conference of the European Association of Environmental Economics, Leuven (Belgium)
+- NOVAFRICA Conference on Economic Development, Lisbon (Portugal)
 - CSAE Conference in Development Economics, Oxford (England).
 - Workshop in environmental economics, Toulouse School of Economics (France).
 
