@@ -7,7 +7,7 @@ author_profile: true
 
 Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa.
 ------
-**Submitted**. Available upon request.
+**Submitted**. Available upon request. Accepted for publication in the *American Journal of Agricultural Economics*
 
 **Abstract**: 
 Droughts can dramatically affect economic activities, especially in developing countries where more than half the labor force is in the agricultural sector. This paper highlights the causal impact of drought on income inequality using a new methodology known as the quantile treatment effect under the Copula stability assumption. This method generalizes the difference-in-differences framework to the entire distribution. The methodology is applied to a geo-referenced and nationally representative household survey of two Sub-Saharan countries: Ethiopia and Malawi. The results show that droughts worsen income inequality in both countries. Lower-income quantiles are subject to a higher decrease in per capita income, up to 40% for the lowest-income quantile. In contrast, higher-income quantiles are largely unaffected or appear to benefit from the drought. These results are robust to several specifications and offer quantitative insights into how extreme weather conditions affect inequality dynamics in developing coun tries. Inequality formation is driven by differences in the ability to cope with droughts. The results show that wealthier households have a higher capacity to find alternative sources of income to prevent a welfare drop. In contrast, the most vulnerable households, particularly low-asset, remote, female-headed, and older-headed, are intensely harmed. Finally, consumption-smoothing behaviors and asset depletion strategies in middle-income households are also observed.
@@ -16,6 +16,10 @@ Droughts can dramatically affect economic activities, especially in developing c
 Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa
 ------
 with [Victoire Girard](https://sites.google.com/site/girardvictoire/home)
+
+****Abstract**
+This article documents how the extraction of a labor-intensive commodity triggered urbanization in smaller, more remote, and poorer cities in sub-Saharan Africa.
+We leverage exogenous variation in the value of artisanal and small-scale gold mining (ASgM) activities -- a widespread source of livelihood heavily dependent on the international market price -- in a comprehensive panel of fine-grained cells starting in 1975. We find that locations with greater exposure to ASgM experience higher population growth and the emergence of more cities. These effects are driven by smaller cities (less than 50k inhabitants) and are particularly pronounced in isolated zones with a limited initial population. Focusing on cities, those with more ASgM tend to exhibit lower living standards and an employment structure still largely geared towards agriculture. % with worse indicators of average wealth, sanitation and infant mortality.
 
 
 Climate immobility in Sub-Saharan Africa

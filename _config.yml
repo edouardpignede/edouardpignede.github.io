@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Edouard Pignède"
 title_separator          : "-"
 name                     : &name "Edouard Pignède"
-description              : &description "PhD student in Environmental and Development Economics"
+description              : &description "PhD student"
 url                      : https://edouardpignede.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edouardpignede/edouardpignede.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Edouard Pignède"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Environmental and \n Development Economics"
+  bio              : "PhD student"
   location         : "Paris, France"
   employer         : 
   uri              : # URL
