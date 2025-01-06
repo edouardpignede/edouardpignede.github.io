@@ -21,7 +21,7 @@ author_profile: true
 - ICDE - International Conference in Development Economics, Paris (France).
 - AFSE - The 71th Congress of the French Economic Association, Paris (France).
 - Paris-Saclay Applied Economics Internal Seminar, Paris (France).
-- EAERE Summer School on Natural Resources and Development, Ascona (Switzerland).
+- EAERE Winter School on Natural Resources and Development, Ascona (Switzerland).
 
 
 2022
