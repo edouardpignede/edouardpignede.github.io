@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "On-going works"
-permalink: /publications/
+permalink: /publication
 author_profile: true
 ---
 
@@ -25,7 +25,10 @@ Migration is often perceived as a key tool to adapt to climate change. However, 
 
 Publications
 ======
-- [Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa.](http://doi.org/10.1111/ajae.12507), 2025, *American Journal of Agricultural Economics*. [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)
+
+[Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa.](http://doi.org/10.1111/ajae.12507)
+----
+Published in the *American Journal of Agricultural Economics*. [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)
 
 **Abstract**: 
 Droughts can dramatically affect economic activities, especially in developing countries where more than half the labor force is in the agricultural sector. This paper highlights the causal impact of drought on income inequality using a new methodology known as the quantile treatment effect under the Copula stability assumption. This method generalizes the difference-in-differences framework to the entire distribution. The methodology is applied to a geo-referenced and nationally representative household survey of two Sub-Saharan countries: Ethiopia and Malawi. The results show that droughts worsen income inequality in both countries. Lower-income quantiles are subject to a higher decrease in per capita income, up to 40% for the lowest-income quantile. In contrast, higher-income quantiles are largely unaffected or appear to benefit from the drought. These results are robust to several specifications and offer quantitative insights into how extreme weather conditions affect inequality dynamics in developing coun tries. Inequality formation is driven by differences in the ability to cope with droughts. The results show that wealthier households have a higher capacity to find alternative sources of income to prevent a welfare drop. In contrast, the most vulnerable households, particularly low-asset, remote, female-headed, and older-headed, are intensely harmed. Finally, consumption-smoothing behaviors and asset depletion strategies in middle-income households are also observed.
