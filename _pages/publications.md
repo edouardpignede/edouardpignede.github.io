@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "On-going works"
-permalink: /publication
+permalink: /publications/
 author_profile: true
 ---
 
