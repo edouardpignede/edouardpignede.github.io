@@ -13,7 +13,7 @@ My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
 Education
 ------
 - 2025--Present \\
-  **Research Assistant**
+  **Research Assistant** \\
   [NovAfrica](https://novafrica.org/)
   
 - 2021--present \\
