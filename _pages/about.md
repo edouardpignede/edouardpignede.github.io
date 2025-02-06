@@ -15,10 +15,13 @@ My research focuses on the adaptation to **climate change** in Sub-Saharan Afric
 
 You can contact me at my [email adress](mailto:{{ 'edouard.pignede@gmail.com' | encode_email }}).
 
+I am currently working at [NovAfrica](https://novafrica.org/) (Nova SBE) in Lisbon as a research assistant.
+
 Research Labs
 ------------
 - [Paris-Saclay Applied Economics (AgroParisTech - INRAE)](https://www6.versailles-grignon.inrae.fr/psae)
 - [Climate Economic Chair (Paris-Dauphine University)](https://www.chaireeconomieduclimat.org/en/)
+- [NovAfrica](https://novafrica.org/)
 
 Supervisors
 -----------
