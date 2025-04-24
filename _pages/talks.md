@@ -6,7 +6,10 @@ author_profile: true
 ---
 2025
 -----
-- DIAL Seminar, Paris-Dauphine University.
+- CEEM Seminar, Agro Institute of Montpellier - INRAE (France).
+- CSAE Conference in Development Economics, Oxford (England).
+- Lisbon Micro Group, ISEG, Lisbon (Portugal).
+- DIAL Seminar, Paris-Dauphine University (France).
 
 
 2024
@@ -15,11 +18,14 @@ author_profile: true
 - NOVAFRICA Conference on Economic Development, Lisbon (Portugal).
 - CSAE Conference in Development Economics, Oxford (England).
 - Workshop in environmental economics, Toulouse School of Economics (France).
+- LEO Seminar, Orléans University (France).
+- Erudite Seminar, Paris-Créteil University (France). 
 
 
 2023
 ----
 - PhD Research Group of NOVAFRICA, Lisbon (Portugal).
+- Lisbon Micro Group, ISEG, Lisbon (Portugal).
 - FAERE - 10th Annual Conference of the French Association of Environmental Economists, Montpellier (France).
 - EAAE - 17th European Association of Agricultural Economists Congress, Rennes (France).
 - ICDE - International Conference in Development Economics, Paris (France).
