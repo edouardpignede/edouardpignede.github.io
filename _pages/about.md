@@ -21,7 +21,7 @@ Research Labs
 ------------
 - [Paris-Saclay Applied Economics (AgroParisTech - INRAE)](https://www6.versailles-grignon.inrae.fr/psae)
 - [Climate Economic Chair (Paris-Dauphine University)](https://www.chaireeconomieduclimat.org/en/)
-- [NovAfrica](https://novafrica.org/)
+- [NovAfrica (Nova SBE)](https://novafrica.org/)
 
 Supervisors
 -----------
