@@ -13,7 +13,7 @@ My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
 Education
 ------
 - 2025--Present \\
-  **Research Assistant** \\
+  **Research Fellow** \\
   [NovAfrica](https://novafrica.org/)
   
 - 2021--present \\
@@ -96,7 +96,7 @@ Teaching
   Level: Master  
   Teaching load: 1.5 hours
 
-Referees
+References
 ----
 
 **Dr. Philippe Delacote**  
@@ -117,8 +117,8 @@ Paris-Saclay Applied Economics (PSAE)
 AgroParisTech  
 [Personal website](https://julienwolfersberger.wordpress.com/)
 
-**Dr. Flore Gubert**  
-Senior researcher, Department of Economy  
-DIAL  
-IRD  
-[Personal website](https://dauphine.psl.eu/recherche/cvtheque/gubert-flore)
+**Dr. Victoire Girard**  
+Research faculty, Department of Economy  
+NovAfrica 
+Nova SBE
+[Personal website](https://sites.google.com/site/girardvictoire/home)
