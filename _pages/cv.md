@@ -118,7 +118,7 @@ AgroParisTech
 [Personal website](https://julienwolfersberger.wordpress.com/)
 
 **Dr. Victoire Girard**  
-Research faculty, Department of Economy  
-NovAfrica 
-Nova SBE
+Research faculty, Department of Economy   
+NovAfrica   
+Nova SBE    
 [Personal website](https://sites.google.com/site/girardvictoire/home)
