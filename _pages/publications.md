@@ -5,26 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script>
-  function toggleAbstract(button) {
-    const abstractDiv = button.nextElementSibling;
-    const isHidden = abstractDiv.style.display === "none";
-    abstractDiv.style.display = isHidden ? "block" : "none";
-    button.textContent = isHidden ? "Hide Abstract" : "Show Abstract";
-  }
-  function toggleCitation(button) {
-  // find the next <pre> element, skipping abstract if present
-  let sibling = button.nextElementSibling;
-  while (sibling && sibling.tagName !== "PRE") {
-    sibling = sibling.nextElementSibling;
-  }
-  if (!sibling) return;
-
-  const isHidden = sibling.style.display === "none";
-  sibling.style.display = isHidden ? "block" : "none";
-  button.textContent = isHidden ? "Hide Cite" : "Cite";
-  }
-</script>
 
 <style>
   button {
@@ -83,10 +63,7 @@ Publications
 
 Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa
 ----
-Published in the *American Journal of Agricultural Economics*, January 2025. [Published version](http://doi.org/10.1111/ajae.12507) [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)
-
-
-
+Published in the *American Journal of Agricultural Economics*, January 2025.
 <!-- Buttons -->
 <button onclick="toggleCitation(this)">Cite</button>
 <a href="http://doi.org/10.1111/ajae.12507" target="_blank" style="margin-left: 5px;">
@@ -95,8 +72,9 @@ Published in the *American Journal of Agricultural Economics*, January 2025. [Pu
 <a href="https://edouardpignede.github.io/files/DroughtIneq_EP.pdf" target="_blank" style="margin-left: 5px;">
   <button>Pre-print</button>
 </a>
-<button onclick="toggleAbstract(this)">Abstract</button>
 
+
+<button onclick="toggleAbstract(this)">Abstract</button>
 
 <!-- Abstract (toggleable) -->
 <div style="display: none; margin-top: 10px;">
@@ -152,3 +130,25 @@ Other publications
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+
+<script>
+  function toggleAbstract(button) {
+    const abstractDiv = button.nextElementSibling;
+    const isHidden = abstractDiv.style.display === "none";
+    abstractDiv.style.display = isHidden ? "block" : "none";
+    button.textContent = isHidden ? "Hide Abstract" : "Show Abstract";
+  }
+  function toggleCitation(button) {
+  // find the next <pre> element, skipping abstract if present
+  let sibling = button.nextElementSibling;
+  while (sibling && sibling.tagName !== "PRE") {
+    sibling = sibling.nextElementSibling;
+  }
+  if (!sibling) return;
+
+  const isHidden = sibling.style.display === "none";
+  sibling.style.display = isHidden ? "block" : "none";
+  button.textContent = isHidden ? "Hide Cite" : "Cite";
+  }
+</script>
