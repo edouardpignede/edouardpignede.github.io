@@ -60,7 +60,7 @@ with [Victoire Girard](https://sites.google.com/site/girardvictoire/home)
 <button onclick="toggleAbstract(this)">Abstract</button>
 
 <div style="display: none; margin-top: 10px;">
-  <p> This article documents how the extraction of a labor-intensive commodity triggered urbanization in smaller, more remote, and poorer cities in sub-Saharan Africa. We leverage exogenous variation in the value of artisanal and small-scale gold mining (ASgM) activities -- a widespread source of livelihood heavily dependent on the international market price -- in a comprehensive panel of fine-grained cells starting in 1975. We find that locations with greater exposure to ASgM experience higher population growth and the emergence of more cities. These effects are driven by smaller cities (less than 50k inhabitants) and are particularly pronounced in isolated zones with a limited initial population. Focusing on cities, those with more ASgM tend to exhibit lower living standards and an employment structure still largely geared towards agriculture. % with worse indicators of average wealth, sanitation and infant mortality.
+  <p>This article documents how the extraction of a labor-intensive commodity triggered urbanization in smaller, more remote, and poorer cities in sub-Saharan Africa. We leverage exogenous variation in the value of artisanal and small-scale gold mining (ASgM) activities -- a widespread source of livelihood heavily dependent on the international market price -- in a comprehensive panel of fine-grained cells starting in 1975. We find that locations with greater exposure to ASgM experience higher population growth and the emergence of more cities. These effects are driven by smaller cities (less than 50k inhabitants) and are particularly pronounced in isolated zones with a limited initial population. Focusing on cities, those with more ASgM tend to exhibit lower living standards and an employment structure still largely geared towards agriculture. % with worse indicators of average wealth, sanitation and infant mortality.</p>
 </div>
 
 
@@ -72,7 +72,7 @@ with [Julien Wolfersberger](https://julienwolfersberger.fr)
 <button onclick="toggleAbstract(this)">Abstract</button>
 
 <div style="display: none; margin-top: 10px;">
-  <p> Migration is often perceived as a key tool to adapt to climate change. However, in developing countries, many households face liquidity constraints that prevent them from migrating when climate shocks occur. This generates a spatial misallocation of labor that impedes economic development. The goal of this paper is to quantify the cost of these misallocations. To do this, we focus on Sub-Saharan Africa, a region heavily concerned by the impacts of global warming and that displays large fertility rates. Using reduced-form estimations, we start by documenting that droughts cause out-migration in African districts except in the poorest ones, where we find no effect. We build a quantitative spatial model of migration and trade combined with satellite and census data to analyze the aggregate implications of this result. We find that by 2050, 30 million potential migrants will be blocked by climate shocks, representing a strong welfare loss for the African economy. Our results further highlight important heterogeneity in the impacts of climate change across and within countries of the region.
+  <p>Migration is often perceived as a key tool to adapt to climate change. However, in developing countries, many households face liquidity constraints that prevent them from migrating when climate shocks occur. This generates a spatial misallocation of labor that impedes economic development. The goal of this paper is to quantify the cost of these misallocations. To do this, we focus on Sub-Saharan Africa, a region heavily concerned by the impacts of global warming and that displays large fertility rates. Using reduced-form estimations, we start by documenting that droughts cause out-migration in African districts except in the poorest ones, where we find no effect. We build a quantitative spatial model of migration and trade combined with satellite and census data to analyze the aggregate implications of this result. We find that by 2050, 30 million potential migrants will be blocked by climate shocks, representing a strong welfare loss for the African economy. Our results further highlight important heterogeneity in the impacts of climate change across and within countries of the region.</p>
 </div>
 
 
@@ -95,7 +95,7 @@ Published in the *American Journal of Agricultural Economics*, January 2025. [Pu
 <a href="https://edouardpignede.github.io/files/DroughtIneq_EP.pdf" target="_blank" style="margin-left: 5px;">
   <button>Pre-print</button>
 </a>
-<button onclick="toggleAbstract(this)">Show Abstract</button>
+<button onclick="toggleAbstract(this)">Abstract</button>
 
 
 <!-- Abstract (toggleable) -->
@@ -125,7 +125,7 @@ Published in the *American Journal of Agricultural Economics*, January 2025. [Pu
 <!-- BibTeX (toggleable) -->
 <pre style="display: none; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; margin-top: 10px; white-space: pre-wrap;">
 @article{Pignde2025,
-  title = {Who carries the burden of climate change? Heterogeneous impact of droughts in sub‐<scp>Saharan Africa</scp>},
+  title = {Who carries the burden of climate change? Heterogeneous impact of droughts in sub‐Saharan Africa},
   volume = {107},
   ISSN = {1467-8276},
   url = {http://dx.doi.org/10.1111/ajae.12507},
