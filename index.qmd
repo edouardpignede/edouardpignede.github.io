@@ -1,0 +1,52 @@
+---
+title: "Edouard Pignède"
+subtitle: "PhD Candidate"
+image: profile.jpg
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:edouard.pignede@gmail.com
+      aria-label: envelope
+    - icon: github
+      href: https://github.com/edouardpignede
+      aria-label: GitHub
+    - text: "{{< iconify simple-icons:bluesky size=Large >}}"
+      href: https://bsky.app/profile/epignede.bsky.social
+      aria-label: BlueSky
+    - icon: linkedin
+      href: https://www.linkedin.com/in/edouard-pignede
+      aria-label: LinkedIn
+    # - text: "{{< iconify academicons:google-scholar size=Large >}}"
+    #   href: https://scholar.google.com/citations?user=cw0qKdAAAAAJ
+    #   aria-label: Google Scholar
+    # - text: "{{< iconify academicons:orcid size=Large >}}"
+    #   href: https://orcid.org/0000-0002-3946-5222
+    #   aria-label: ORCID
+---
+
+Welcome to my personal webpage!
+-----
+
+I am a PhD student in **Environmental and Development Economics**.\
+My research focuses on the adaptation to **climate change** in Sub-Saharan Africa.
+
+You can contact me at my [email adress](mailto:edouard.pignede@gmail.com).
+
+I am currently working at [NovAfrica](https://novafrica.org/) (Nova SBE) in Lisbon as a research fellow.
+
+Research Labs
+------------
+- [Paris-Saclay Applied Economics (AgroParisTech - INRAE)](https://www6.versailles-grignon.inrae.fr/psae)
+- [Climate Economic Chair (Paris-Dauphine University)](https://www.chaireeconomieduclimat.org/en/)
+- [NovAfrica (Nova SBE)](https://novafrica.org/)
+
+Supervisors
+-----------
+- [Raja Chakir](https://sites.google.com/site/rajachakir/)
+- [Philippe Delacote](https://sites.google.com/view/philippedelacote/)
+- [Julien Wolfersberger](https://julienwolfersberger.wordpress.com/)
+
+
+More information in my [CV](https://edouardpignede.github.io/files/cv.pdf).

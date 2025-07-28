@@ -1,0 +1,31 @@
+execute:
+  freeze: auto
+  
+project:
+  type: website
+
+website:
+  favicon: favicon.ico
+  title: Edouard Pignède
+  open-graph: true
+  page-footer: ""
+  search: false
+  navbar:
+    right:
+      - href: Pages/Research.md
+      - href: Pages/Talks.md
+      - href: Pages/Teaching.md
+      - href: Pages/CV.md 
+      # - text: CV
+      #   icon: file-pdf
+      #   menu:
+      #   - text: English
+      #     href: docs/cv_christophe_gouel_en.pdf
+      #   - text: French
+      #     href: docs/cv_christophe_gouel_fr.pdf
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: darkly
