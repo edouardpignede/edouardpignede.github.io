@@ -4,21 +4,23 @@ toc: true
 ---
 
 <script>
-function hide_buttons(abstract) {
-    var x = document.getElementById(abstract);
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
+function hide_buttons(button, abstract) {
+  var x = document.getElementById(abstract);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    button.classList.add('toggled');
+  } else {
+    x.style.display = "none";
+    button.classList.remove('toggled');
+  }
 }
 </script>
 
 <style>
 .button_link {
   background-color:rgba(0, 123, 255, 0); /* blue background */
-  color:rgb(0, 123, 255); /* white text */
-  border: none; /* remove default border */
+  color:rgb(39, 128, 227); /* white text */
+  border: rgb(39, 128, 227); /* remove default border */
   border-radius: 5px; /* rounded corners */
   padding: 10px 20px; /* add some padding */
   cursor: pointer; /* change cursor on hover */
@@ -29,10 +31,20 @@ function hide_buttons(abstract) {
   background-color:rgba(0, 87, 179, 0); /* darker blue on hover */
 }
 
-.button_link::after {
-  content: "\25B6"; /* add a right-pointing arrow */
-  font-size: 16px; /* adjust arrow size */
-  margin-left: 10px; /* add some space between text and arrow */
+.button_link::before {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 5px 0 5px 10px;
+  border-color: transparent transparent transparent #000;
+  margin-right: 10px;
+  transition: transform 0.2s;
+}
+
+.button_link.toggled::before {
+  transform: rotate(90deg);
 }
 
 </style>
@@ -43,7 +55,7 @@ On-going works
 #### Golden cities: Artisanal mining and urbanization in Sub-Saharan Africa
 with [Victoire Girard](https://sites.google.com/site/girardvictoire/home)
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_golden_cities')">Abstract</button>
+<button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_golden_cities')">Abstract</button>
 <div id="abstract_golden_cities" style="display:none;">
 
 
@@ -57,7 +69,7 @@ We leverage exogenous variation in the value of artisanal and small-scale gold m
 #### Climate immobility in Sub-Saharan Africa
 with [Julien Wolfersberger](https://julienwolfersberger.fr)
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_clim_imo')">Abstract</button>
+<button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_clim_imo')">Abstract</button>
 <div id="abstract_clim_imo" style="display:none;">
 
 
@@ -71,9 +83,9 @@ Publications
 #### Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa
 
 Published in the *American Journal of Agricultural Economics*, January 2025. \
-[Published version](http://doi.org/10.1111/ajae.12507) [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)
+[[Published version](http://doi.org/10.1111/ajae.12507), [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)]
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_drought_ineq')">Abstract</button>
+<button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_drought_ineq')">Abstract</button>
 <div id="abstract_drought_ineq" style="display:none;">
 
 
