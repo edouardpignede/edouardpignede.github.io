@@ -4,6 +4,8 @@ toc: true
 ---
 2025
 -----
+- EEA Congress 2025, Bordeaux (France).
+- ICDE - International Conference in Development Economics, Nanterre (France).
 - CEEM Seminar, Agro Institute of Montpellier - INRAE (France).
 - CSAE Conference in Development Economics, Oxford (England).
 - Lisbon Micro Group, ISEG, Lisbon (Portugal).
