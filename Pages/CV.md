@@ -3,7 +3,7 @@ title: "CV"
 toc: true
 ---
 
-My CV can be found [here](https://edouardpignede.github.io/files/cv.pdf).
+My CV can be found [here](https://edouardpignede.github.io/files/CV_Edouard_Pignede.pdf).
 
 
 Education
