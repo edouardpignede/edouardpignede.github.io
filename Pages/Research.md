@@ -86,7 +86,7 @@ Publications
 #### Who carry the burden of climate change? Heterogeneous impacts of droughts in Sub-Saharan Africa
 
 Published in the *American Journal of Agricultural Economics*, January 2025. \
-[[Published version](http://doi.org/10.1111/ajae.12507), [Pre-print](https://edouardpignede.github.io/files/DroughtIneq_EP.pdf)]
+[[Published version](http://doi.org/10.1111/ajae.12507), [Pre-print](files/DroughtIneq_EP.pdf)]
 
 <button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_drought_ineq')">**Abstract**</button>
 <div id="abstract_drought_ineq" style="display:none;">

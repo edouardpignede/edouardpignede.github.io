@@ -49,4 +49,4 @@ Supervisors
 - [Julien Wolfersberger](https://julienwolfersberger.wordpress.com/)
 
 
-More information in my [CV](https://edouardpignede.github.io/files/CV_Edouard_Pignede.pdf).
+More information in my [CV](files/CV_Edouard_Pignede.pdf).
