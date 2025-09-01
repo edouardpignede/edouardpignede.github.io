@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Edouard Pignède",
+    "section": "",
+    "text": "I am a PhD student in Environmental and Development Economics.\nMy research focuses on the adaptation to climate change in Sub-Saharan Africa.\nYou can contact me at my email adress.\nI am currently working at NovAfrica (Nova SBE) in Lisbon as a research fellow."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-personal-webpage",
+    "href": "index.html#welcome-to-my-personal-webpage",
+    "title": "Edouard Pignède",
+    "section": "",
+    "text": "I am a PhD student in Environmental and Development Economics.\nMy research focuses on the adaptation to climate change in Sub-Saharan Africa.\nYou can contact me at my email adress.\nI am currently working at NovAfrica (Nova SBE) in Lisbon as a research fellow."
+  },
+  {
+    "objectID": "index.html#research-labs",
+    "href": "index.html#research-labs",
+    "title": "Edouard Pignède",
+    "section": "Research Labs",
+    "text": "Research Labs\n\nParis-Saclay Applied Economics (AgroParisTech - INRAE)\nClimate Economic Chair (Paris-Dauphine University)\nNovAfrica (Nova SBE)"
+  },
+  {
+    "objectID": "index.html#supervisors",
+    "href": "index.html#supervisors",
+    "title": "Edouard Pignède",
+    "section": "Supervisors",
+    "text": "Supervisors\n\nRaja Chakir\nPhilippe Delacote\nJulien Wolfersberger\n\nMore information in my CV."
+  },
+  {
     "objectID": "Pages/Teaching.html",
     "href": "Pages/Teaching.html",
     "title": "Teaching",
@@ -47,34 +75,6 @@
     "title": "Research",
     "section": "Other publications",
     "text": "Other publications\n\nSugarcane Yield Forecast in Ivory Coast (West Africa) Based on Weather and Vegetation Index Data, with Philippe Roudier, Arona Diedhiou, and Crépin Bi Pene, 2021, Atmosphere.\nFrench trade in the 18th century: Inflation and Revolution with Guillaume Daudin, 2021, Dialogue. French version: link."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Edouard Pignède",
-    "section": "",
-    "text": "I am a PhD student in Environmental and Development Economics.\nMy research focuses on the adaptation to climate change in Sub-Saharan Africa.\nYou can contact me at my email adress.\nI am currently working at NovAfrica (Nova SBE) in Lisbon as a research fellow."
-  },
-  {
-    "objectID": "index.html#welcome-to-my-personal-webpage",
-    "href": "index.html#welcome-to-my-personal-webpage",
-    "title": "Edouard Pignède",
-    "section": "",
-    "text": "I am a PhD student in Environmental and Development Economics.\nMy research focuses on the adaptation to climate change in Sub-Saharan Africa.\nYou can contact me at my email adress.\nI am currently working at NovAfrica (Nova SBE) in Lisbon as a research fellow."
-  },
-  {
-    "objectID": "index.html#research-labs",
-    "href": "index.html#research-labs",
-    "title": "Edouard Pignède",
-    "section": "Research Labs",
-    "text": "Research Labs\n\nParis-Saclay Applied Economics (AgroParisTech - INRAE)\nClimate Economic Chair (Paris-Dauphine University)\nNovAfrica (Nova SBE)"
-  },
-  {
-    "objectID": "index.html#supervisors",
-    "href": "index.html#supervisors",
-    "title": "Edouard Pignède",
-    "section": "Supervisors",
-    "text": "Supervisors\n\nRaja Chakir\nPhilippe Delacote\nJulien Wolfersberger\n\nMore information in my CV."
   },
   {
     "objectID": "Pages/CV.html",
