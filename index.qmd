@@ -28,25 +28,18 @@ about:
 
 Welcome to my personal webpage!
 -----
+I am a **applied environemental and development economist**, currently working at [NovAfrica](https://novafrica.org/) (Nova SBE) in Lisbon as a research fellow.
+My research focuses on the adaptation to **climate change** and the **exploitation of resources** in Sub-Saharan Africa.
 
-I am a PhD student in **Environmental and Development Economics**.\
-My research focuses on the adaptation to **climate change** in Sub-Saharan Africa.
+I completed my PhD at the [Paris-Saclay Applied Economics Lab (PSAE)](https://www6.versailles-grignon.inrae.fr/psae) and the [Climate Economic Chair](https://www.chaireeconomieduclimat.org/en/) (Paris-Dauphine University) in September 2025, under the supervision of [Raja Chakir](https://sites.google.com/site/rajachakir/), [Philippe Delacote](https://sites.google.com/view/philippedelacote/) and [Julien Wolfersberger](https://julienwolfersberger.wordpress.com/).
 
 You can contact me at my [email adress](mailto:edouard.pignede@gmail.com).
 
-I am currently working at [NovAfrica](https://novafrica.org/) (Nova SBE) in Lisbon as a research fellow.
 
 Research Labs
 ------------
-- [Paris-Saclay Applied Economics (AgroParisTech - INRAE)](https://www6.versailles-grignon.inrae.fr/psae)
 - [Climate Economic Chair (Paris-Dauphine University)](https://www.chaireeconomieduclimat.org/en/)
 - [NovAfrica (Nova SBE)](https://novafrica.org/)
-
-Supervisors
------------
-- [Raja Chakir](https://sites.google.com/site/rajachakir/)
-- [Philippe Delacote](https://sites.google.com/view/philippedelacote/)
-- [Julien Wolfersberger](https://julienwolfersberger.wordpress.com/)
 
 
 More information in my [CV](files/CV_Edouard_Pignede.pdf).
