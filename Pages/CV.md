@@ -9,6 +9,10 @@ My CV can be found [here](../files/CV_Edouard_Pignede.pdf).
 Education
 ------
 - 2025--Present \
+  **Postdoctoral researcher** \
+  [UMI SOURCE (Paris-Saclay University and IRD)](https://www.umi-source.uvsq.fr/)
+
+- 2025 \
   **Research Fellow** \
   [NovAfrica](https://novafrica.org/)
   
