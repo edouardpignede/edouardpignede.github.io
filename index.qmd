@@ -28,7 +28,7 @@ about:
 
 Welcome to my personal webpage!
 -----
-I am a postdoctoral researcher at the [French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/), working at the [UMI SOURCE](https://www.umi-source.uvsq.fr/)  (**University Paris-Saclay**).
+I am a **postdoctoral researcher** at the [French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/), member of the [UMI SOURCE](https://www.umi-source.uvsq.fr/) ([University Paris-Saclay](https://www.universite-paris-saclay.fr/en)).
 
 I am an **applied environmental and development economist**. My research focuses on the adaptation to **climate change** and the **exploitation of natural resources** in Sub-Saharan Africa.
 
