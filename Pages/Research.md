@@ -52,7 +52,6 @@ function hide_buttons(button, abstract) {
 }
 
 h4 {
-  /* font-weight: bold; */
   margin-top: 2rem; 
   margin-bottom: 0.5rem;
 }
