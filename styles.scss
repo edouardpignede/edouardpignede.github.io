@@ -1,13 +1,45 @@
 /*-- scss:defaults --*/
 
-// Sass Variables
-// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+// 1. Sass Variables 
+// These override the internal Bootstrap variables used by Quarto.
 
-/* Colors */
 $body-bg: #FFFFFF;
 $body-color: rgb(55, 58, 60);
-$link-color: rgb(39, 128, 227);
+
+// We define your indigo color as a variable to use it in both sections
+$my-indigo: hsla(239, 84%, 67%, 1.00); 
+$link-color: $my-indigo;
 
 /* Fonts */
 $font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-size-root: 17px;
+
+
+/*-- scss:rules --*/
+
+// 2. Custom Style Rules
+// These are applied after the theme is loaded.
+
+// We use 'html body a' to ensure our style is more specific than the 
+// default Bootstrap styles, which helps force the underline to disappear.
+html body a {
+  color: $my-indigo;
+  text-decoration: none !important; /* Forces underline OFF by default */
+  padding: 2px 4px;
+  border-radius: 4px;
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    background-color: rgba(99, 102, 241, 0.1); 
+    text-decoration: none !important;
+    text-underline-offset: 4px;            /* Gives the underline some breathing room */
+    color: #4338ca; 
+  }
+}
+
+// Optional: If your navigation links or sidebar links still show underlines, 
+// this line will catch them specifically.
+.sidebar a, .navbar a, .nav-link {
+  text-decoration: none !important;
+}
