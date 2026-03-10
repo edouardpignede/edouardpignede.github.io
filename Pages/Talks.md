@@ -4,7 +4,9 @@ toc: true
 ---
 2025
 -----
+- EUGLOH Annual Summit, Porto (Portugal).
 - EEA Congress 2025, Bordeaux (France).
+- FAERE - 12th Annual Conference of the French Association of Environmental Economists, Nantes (France).
 - ICDE - International Conference in Development Economics, Nanterre (France).
 - CEEM Seminar, Agro Institute of Montpellier - INRAE (France).
 - CSAE Conference in Development Economics, Oxford (England).
@@ -15,6 +17,7 @@ toc: true
 2024
 -----
 - EAERE - 29th Annual Conference of the European Association of Environmental Economics, Leuven (Belgium).
+- FAERE - 11th Annual Conference of the French Association of Environmental Economists, Strasbourg (France).
 - NOVAFRICA Conference on Economic Development, Lisbon (Portugal).
 - CSAE Conference in Development Economics, Oxford (England).
 - Workshop in environmental economics, Toulouse School of Economics (France).
