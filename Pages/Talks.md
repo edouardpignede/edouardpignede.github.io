@@ -2,6 +2,11 @@
 title: "Talks"
 toc: true
 ---
+2026
+-----
+- ADRES Job Market Conference, Paris (France).
+- CLAND Workshop on land use policy, Paris (France). 
+
 2025
 -----
 - EUGLOH Annual Summit, Porto (Portugal).

@@ -2,6 +2,12 @@
 title: "Teaching"
 toc: true
 ---
+2026
+------
+**Training in research replicability**
+April-May
+Level: PhD students
+Teaching load: 14 hours
 
 2022-2023
 ------
