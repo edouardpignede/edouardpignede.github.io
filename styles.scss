@@ -17,8 +17,9 @@ $font-size-root: 17px;
 
 /*-- scss:rules --*/
 
-// 2. Custom Style Rules
-// These are applied after the theme is loaded.
+html body {
+  text-align: justify;
+}
 
 // We use 'html body a' to ensure our style is more specific than the 
 // default Bootstrap styles, which helps force the underline to disappear.
