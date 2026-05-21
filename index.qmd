@@ -47,4 +47,4 @@ Research Labs
 - [UMI SOURCE (University Paris-Saclay)](https://www.umi-source.uvsq.fr/)
 
 
-More information in my [CV](files/CV_Edouard_Pignede.pdf).
+More information in my [CV](files/CV_EdouardPignede.pdf).
