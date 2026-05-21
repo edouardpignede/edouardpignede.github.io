@@ -2,20 +2,21 @@
 title: "Teaching"
 toc: true
 ---
+
 2026
 ------
 
-**Training in research replicability (CERED, University of Antananarivo)**
-April-May
-Level: PhD students
+**Training in research replicability (CERED, University of Antananarivo)**  
+April-May  
+Level: PhD students  
 Teaching load: 14 hours
 
 2024
 ------
 
-**Training in research replicability (PSAE, AgroParisTech)**
-May
-Level: PhD students
+**Training in research replicability (PSAE, AgroParisTech)**  
+May  
+Level: PhD students  
 Teaching load: 2 hours
 
 2022-2023
