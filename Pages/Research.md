@@ -62,6 +62,9 @@ h4 {
 On-going works
 ------
 
+#### Protected Areas and Fires in Madagascar
+&emsp; with [Florent Bedecarrats](https://cv.hal.science/florent-bedecarrats) and [Thomas Thivillon](https://www.thomasthivillon.com)
+
 #### Climate change, adaptation, and mortality
 
 <button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_clim_mort')">Abstract</button>
