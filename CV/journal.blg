@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: journal.aux
+The style file: plainyrrev.bst
+Database file #1: journal.bib
+Warning--can't use both volume and number fields in pignede_sugarcane_2021
+You've used 2 entries,
+            2154 wiz_defined-function locations,
+            521 strings with 4731 characters,
+and the built_in function-call counts, 833 in all, are:
+= -- 75
+> -- 51
+< -- 2
++ -- 20
+- -- 18
+* -- 52
+:= -- 149
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 36
+empty$ -- 53
+format.name$ -- 18
+if$ -- 170
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 6
+pop$ -- 19
+preamble$ -- 0
+purify$ -- 12
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 18
+swap$ -- 15
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 1
+while$ -- 7
+width$ -- 3
+write$ -- 30
+(There was 1 warning)
