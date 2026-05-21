@@ -15,7 +15,10 @@ website:
       - href: Pages/Research.md
       - href: Pages/Talks.md
       - href: Pages/Teaching.md
-      - href: Pages/CV.md 
+      - text: CV
+        icon: file-pdf
+        href: files/CV_EdouardPignede.pdf
+
       # - text: CV
       #   icon: file-pdf
       #   menu:
