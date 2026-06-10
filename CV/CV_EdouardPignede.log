@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.21)  21 MAY 2026 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.6.7)  10 JUN 2026 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_EdouardPignede.tex
 (./CV_EdouardPignede.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-04-28>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-05-26>
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2026-01-31 v2.5.1 modern curriculum vitae and letter document class
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -36,7 +36,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box53
 \extrarowheight=\dimen151
@@ -45,7 +45,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \backup@length=\skip50
 \ar@cellbox=\box54
 )
-\everycr=\toks18
+new hooks used!!
 \minrowclearance=\skip51
 \rownum=\count277
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
@@ -56,12 +56,12 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
@@ -87,7 +87,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthL=\skip63
 \f@nch@widthC=\skip64
 \f@nch@widthR=\skip65
-\@temptokenb=\toks20
+\@temptokenb=\toks19
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/tweaklist.sty) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count278
@@ -101,7 +101,7 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count280
 \calc@Cskip=\skip68
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2026-04-28 L3 programming layer (loader) 
+Package: expl3 2026-05-26 L3 programming layer (loader) 
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
@@ -109,12 +109,12 @@ File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 Package: xparse 2025-10-09 L3 Experimental document command parser
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
-\MT@toks=\toks21
+\MT@toks=\toks20
 \MT@tempbox=\box55
 \MT@count=\count282
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
 LaTeX Info: Redefining \leftprotrusion on input line 1085.
-\MT@prot@toks=\toks22
+\MT@prot@toks=\toks21
 LaTeX Info: Redefining \rightprotrusion on input line 1104.
 LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen156
@@ -156,9 +156,9 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks23
-\XKV@tempa@toks=\toks24
-\XKV@tempb@toks=\toks25
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+\XKV@tempb@toks=\toks24
 )
 \XKV@depth=\count290
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -243,7 +243,7 @@ Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for font
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)))) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
 Package: moderncviconstikz 2026-01-31 v2.5.1 modern curriculum vitae and letter icons: tickz
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks26
+\pgfutil@everybye=\toks25
 \pgfutil@tempdima=\dimen171
 \pgfutil@tempdimb=\dimen172
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -255,10 +255,10 @@ Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks28
 ))
 \pgf@x=\dimen173
 \pgf@y=\dimen174
@@ -276,9 +276,9 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \c@pgf@countb=\count295
 \c@pgf@countc=\count296
 \c@pgf@countd=\count297
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
 \pgf@sys@id@count=\count298
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
@@ -300,9 +300,9 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmath@dimen=\dimen183
 \pgfmath@count=\count301
 \pgfmath@box=\box60
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count302
 )) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -385,8 +385,8 @@ Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen266
 \pgffor@skip=\dimen267
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
 )) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
@@ -458,7 +458,7 @@ Package: arydshln 2019/02/21 v1.76
 \adl@gap=\count323
 \adl@cla=\count324
 \adl@clb=\count325
-\adl@everyvbox=\toks38
+\adl@everyvbox=\toks37
 \adl@LTpagetotal=\dimen285
 )
 ==> First Aid for arydshln.sty applied!
@@ -516,7 +516,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen291
 \Gm@layouthoffset=\dimen292
 \Gm@layoutvoffset=\dimen293
-\Gm@dimlist=\toks39
+\Gm@dimlist=\toks38
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/multibbl/multibbl.sty
 Package: multibbl 2007/07/27 v1.1
 Package: `multibbl' v1.1 <2004/07/27> (A. Syropoulos)
@@ -637,12 +637,12 @@ LaTeX Font Info:    ... okay on input line 92.
 \scratchbox=\box76
 \nofMPsegments=\count342
 \nofMParguments=\count343
-\everyMPshowfont=\toks40
+\everyMPshowfont=\toks39
 \MPscratchCnt=\count344
 \MPscratchDim=\dimen299
 \MPnumerator=\count345
 \makeMPintoPDFobject=\count346
-\everyMPtoPDFconversion=\toks41
+\everyMPtoPDFconversion=\toks40
 ) (c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -781,8 +781,8 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 [4] (./CV_EdouardPignede.aux)
  ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-04-28>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-05-26>
  ***********
 
 LaTeX Font Warning: Size substitutions with differences
@@ -792,18 +792,18 @@ Package rerunfilecheck Info: File `CV_EdouardPignede.out' has not changed.
 (rerunfilecheck)             Checksum: 5E188131A48602ED96E1B60563CF6CDD;1789.
  ) 
 Here is how much of TeX's memory you used:
- 28129 strings out of 467341
- 545593 string characters out of 5407475
- 964841 words of memory out of 5000000
- 56599 multiletter control sequences out of 15000+600000
+ 28133 strings out of 467167
+ 545716 string characters out of 5401525
+ 968373 words of memory out of 5000000
+ 56774 multiletter control sequences out of 15000+600000
  650861 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,12n,136p,1014b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,12n,136p,1014b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfsi1728.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfso1095.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfss3583.pfb><c:/Users/edoua/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on CV_EdouardPignede.pdf (4 pages, 2764576 bytes).
+Output written on CV_EdouardPignede.pdf (4 pages, 2764678 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
+ 223 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
  18 named destinations out of 1000 (max. 500000)
  36986 words of extra memory for PDF output out of 42996 (max. 10000000)
 
