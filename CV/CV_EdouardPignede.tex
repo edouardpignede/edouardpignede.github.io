@@ -31,6 +31,21 @@
 
 \renewcommand*{\labelitemi}{\strut{\tiny\textbullet}}
 
+% in the preamble
+\usepackage{xcolor}
+\definecolor{cvblue}{HTML}{2B6EA3} % replace with your CV hex
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=cvblue,
+  urlcolor=cvblue,
+  citecolor=cvblue,
+  pdfborder={0 0 0} % remove boxed borders
+}
+
+\colorlet{cvsubtle}{cvblue!60!black}
+\hypersetup{urlcolor=cvsubtle, linkcolor=cvsubtle, citecolor=cvsubtle}
+
 
 \usepackage[scale=0.85]{geometry} % Reduce document margins
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
@@ -101,8 +116,11 @@
 %----------------------------------------------------------------------------------------
 \section{Current position}
 
-\cventry{2025--Present}{Post-doctoral scholar}{\href{https://en.ird.fr/}{French National Research Institute for Sustainable Development (IRD), \href{https://www.umi-source.uvsq.fr}{Université Paris-Saclay, UMI SOURCE}}}{Paris}
-{\newline Member of the BETSAKA project, initiative to assess the environmental and socio-economic impacts of protected areas in Madagascar from 2000 to 2024}{}
+\cventry{2025--Present}{Post-doctoral scholar}{\href{https://en.ird.fr/}{French National Research Institute for Sustainable Development (IRD), \href{https://www.umi-source.uvsq.fr}{Université Paris-Saclay, UMI SOURCE}}}{Paris}{}
+{
+Member of the BETSAKA project, initiative to assess the environmental and socio-economic impacts of protected areas in Madagascar from 2000 to 2024. \newline
+3-month fieldwork in Madagascar (March to June 2026) to organize interviews with protected area managers and stakeholders.
+}
 
 \section{Academic appointments}
 
@@ -111,27 +129,37 @@
 
 \section{Education}
 
-\cventry{2021--2025}{PhD, Development and environmental economics}{\href{http://www2.agroparistech.fr/spip.php?article1142}{AgroParistech} (\href{https://www.universite-paris-saclay.fr/en}{Paris-Saclay University}) \& \href{https://www.chaireeconomieduclimat.org/en/}{Climate Economic Chair}}{Paris}
-{\newline Climate change adaptation in Sub-Saharan Africa: Inequalities and vulnerabilities}
-{\begin{itemize}
-    \item[] Chapter 1: impact of drought on inequalities using quantile treatment effect and distribution regression, as well as the initial endowment in capital.
-    \item[] Chapter 2: empirical analysis of the link between artisanal mining and urbanization.
-    \item[] Chapter 3: quantitative spatial modeling of climate change-induced migration with liquidity constraints.
-    \item[] Chapter 4: quantitative spatial modeling of climate change impact on mortality.
-\end{itemize}
+\cventry{2021--2025}{PhD, Development and environmental economics}{\href{http://www2.agroparistech.fr/spip.php?article1142}{AgroParistech} (\href{https://www.universite-paris-saclay.fr/en}{Paris-Saclay University}) \& \href{https://www.chaireeconomieduclimat.org/en/}{Climate Economic Chair}}{Paris}{}
+{
+    \href{https://www.afse.fr/en/news/winners-of-the-2026-afse-thesis-prize-2531}{2026 Thesis Award of the French Economic Association (AFSE)} \newline 
+    Title: The poverty-environment trap : Climate change, natural resources and population dynamics in Sub-Saharan Africa (\href{https://theses.fr/2025UPASB038}{link}) \newline
+    Supervisors: \href{https://sites.google.com/view/philippedelacote}{Philippe Delacote}, \href{https://sites.google.com/site/rajachakir/}{Raja Chakir} and \href{https://julienwolfersberger.fr/}{Julien Wolfersberger}
+    \begin{itemize}
+        \item[] Chapter 1: impact of drought on inequalities using quantile treatment effect and distribution regression, as well as the initial endowment in capital.
+        \item[] Chapter 2: empirical analysis of the link between artisanal mining and urbanization.
+        \item[] Chapter 3: quantitative spatial modeling of climate change-induced migration with liquidity constraints.
+        \item[] Chapter 4: quantitative spatial modeling of climate change impact on mortality.
+    \end{itemize}
 }  % Arguments not required can be left empty
 
-\cventry{2019--2020}{Master’s degree in environmental economics}{\href{http://www2.agroparistech.fr/spip.php?article1142}{AgroParistech} (\href{https://www.universite-paris-saclay.fr/en}{Paris-Saclay University}) }{Paris}
-{Average: 15.95}{Courses: environmental econometrics, economy of natural resources, international trade and environment, public policies and environment, climate change economy}
+\cventry{2019--2020}{Master’s degree in environmental economics}{\href{http://www2.agroparistech.fr/spip.php?article1142}{AgroParistech} (\href{https://www.universite-paris-saclay.fr/en}{Paris-Saclay University}) }{Paris}{}
+{
+    Average: 15.95 \newline
+    Courses: environmental econometrics, economy of natural resources, international trade and environment, public policies and environment, climate change economy
+}
 %{Advanced exposure to various areas of computer science along with a one and half year research project on Reversible Logic Synthesis.}
 %\cvitem{CGPA :}{7.96/10}
+
 \cventry{2016--2020}{Master’s degree in industrial engineering}{\href{https://www.centralesupelec.fr/en}{CentraleSupélec} (\href{https://www.universite-paris-saclay.fr/en}{Paris-Saclay University})}{Paris}
-{Average: 16.35}
-{\begin{itemize}
-    \item[] Specialization in industrial engineering and management of international project.
-    \item[] Courses: advanced probability, advanced statistics, economy, sustainable development, modelling and optimization.
-    \item[] Six-month project on applied mathematics: development of modelling algorithm of Hawkes process computed with Python.
-\end{itemize}}
+{}
+{
+    Average: 16.35
+    \begin{itemize}
+        \item[] Specialization in industrial engineering and management of international project.
+        \item[] Courses: advanced probability, advanced statistics, economy, sustainable development, modelling and optimization.
+        \item[] Six-month project on applied mathematics: development of modelling algorithm of Hawkes process computed with Python.
+    \end{itemize}
+}
 
 
 \cventry{2014--2016}{Classes préparatoires}{Henri IV}{Paris}{}
@@ -199,23 +227,20 @@
 
 
 
-
-
-
-
-
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
 
 \section{Research Experience}
 \cventry{Nov,2020 -- Nov,2021}{\textit{Research engineer}}{\href{https://en.ird.fr/}{French National Research Institute for Sustainable Development (IRD), \href{https://dial.ird.fr/en/}{DIAL}}}{Paris}{}
-{\begin{itemize}
-    \item[] Mapping of Sub-Saharan vulnerability to climate change through three components: exposition, sensibility and adaptation capacities. Building of multiple indicators of vulnerability using household survey (DHS, agricultural survey), satellite data (CHIRPS, ISRIC) and country data (infrastructures, mines localisation) computed with RStudio and QGIS.
-    \item[] Application of an original statistical method of spatial matching to assess the effect of roads on inter-sectoral mobility and population migration in Mali, using national census data and RStudio.
-    \item[] Building a global database of coast escarpment, nightlight and wave height to assess the role of piracy on coast development using RStudio and QGIS.
-    \item[] Computing of price indexes in France in the 18th century using the repeated sales method, RStudio and data from the TOFLIT project (published in Dialogue n°62, English version: \href{https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf}{link}. French version: \href{https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-62.pdf}{link}).
-\end{itemize} }
+{
+    \begin{itemize}
+        \item[] Mapping of Sub-Saharan vulnerability to climate change through three components: exposition, sensibility and adaptation capacities. Building of multiple indicators of vulnerability using household survey (DHS, agricultural survey), satellite data (CHIRPS, ISRIC) and country data (infrastructures, mines localisation) computed with RStudio and QGIS.
+        \item[] Application of an original statistical method of spatial matching to assess the effect of roads on inter-sectoral mobility and population migration in Mali, using national census data and RStudio.
+        \item[] Building a global database of coast escarpment, nightlight and wave height to assess the role of piracy on coast development using RStudio and QGIS.
+        \item[] Computing of price indexes in France in the 18th century using the repeated sales method, RStudio and data from the TOFLIT project (published in Dialogue n°62, English version: \href{https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf}{link}. French version: \href{https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-62.pdf}{link}).
+    \end{itemize} 
+}
 
 \cventry{May,2020 -- Nov,2020}{\textit{Research engineer}}{\href{https://www.afd.fr/en}{French Development Agency (AFD)}}{Paris}{End-of-study internship}
 {\begin{itemize}
@@ -395,7 +420,7 @@
 \begin{tabular}{lr}
 % Referee 1
 \begin{minipage}[t]{3.5in}
-\textbf{Dr. Philippe Delacote}\\
+\textbf{\href{https://sites.google.com/view/philippedelacote}{Dr. Philippe Delacote}}\\
 \textit{Senior Researcher, Department of Economy} \\
 \textit{Bureau d'Economie Théorique et Appliquée (BETA)}\\
 INRAE \\
@@ -404,7 +429,7 @@ INRAE \\
 &
 % Referee 2
 \begin{minipage}[t]{3.5in}
-\textbf{Dr. Raja Chakir}\\
+\textbf{\href{https://sites.google.com/site/rajachakir/}{Dr. Raja Chakir}}\\
 \textit{Senior Researcher, Department of Economy} \\
 \textit{Paris-Saclay Applied Economics (PSAE)}\\
 INRAE-AgroParisTech\\
@@ -414,7 +439,7 @@ INRAE-AgroParisTech\\
 \\ % Additional newline for spacing.
 % Referee 3
 \begin{minipage}[t]{3.5in}
-\textbf{Dr. Julien Wolfersberger}\\
+\textbf{\href{https://julienwolfersberger.fr/}{Dr. Julien Wolfersberger}}\\
 \textit{Research fellow, Department of Economy} \\
 \textit{Paris-Saclay Applied Economics (PSAE)}\\
 AgroParisTech\\
@@ -422,7 +447,7 @@ AgroParisTech\\
 \end{minipage}
 &
 \begin{minipage}[t]{3.5in}
-\textbf{Dr. Victoire Girard}\\
+\textbf{\href{https://sites.google.com/site/girardvictoire/home}{Dr. Victoire Girard}}\\
 \textit{Research faculty, Department of Economy} \\
 \textit{NovAfrica}\\
  Nova SBE\\
