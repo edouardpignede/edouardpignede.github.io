@@ -89,7 +89,8 @@ This article documents how the extraction of a labor-intensive commodity trigger
 
 
 #### Climate immobility in Sub-Saharan Africa
-&emsp; with [Julien Wolfersberger](https://julienwolfersberger.fr)
+&emsp; with [Julien Wolfersberger](https://julienwolfersberger.fr) \
+&emsp; *Blog Post AFSE*, September 2026. [[Link](https://www.blog-afse.fr/billet/immobilite-climatique)]
 
 <button class="button_link" role="button" onclick="hide_buttons(this, 'abstract_clim_imo')">Abstract</button>
 <div id="abstract_clim_imo" style="display:none;">
